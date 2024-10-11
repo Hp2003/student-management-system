@@ -1,0 +1,9 @@
+{
+    "name": "pc021002/mvc2",
+    "autoload": {
+        "psr-4": {
+            "Pc021002\\Mvc2\\": "src/"
+        }
+    },
+    "require": {}
+}
